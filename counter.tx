@@ -1,3 +1,9 @@
+#Similar start with the correct directory at the top. Then intializes the counter variable to be 0
+# Then does a whitle loop which I find interesting. I'm normally more comfratable in a langugage like Java, but
+he has a while before the "do". Don't know off the top of my head if that would work in shelling. He also has braces
+instead of parenthesses(for the condition). He also doesn't use curly braces for a block of a line of code, so I think
+this while loop does one thing and that's add 1 to counter. Then it prints the counter. He also has "done" at the 
+end of the code so I don't know if that'll work. 
 #!/bin/bash
 
 counter=0

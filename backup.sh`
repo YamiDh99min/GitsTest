@@ -1,3 +1,4 @@
+# Correct file path. Asks for user's input. Then prints the input. No semicolons or braces 
 #!/bin/bash
 
 # This bash script is used to backup a user's home directory to /tmp/.

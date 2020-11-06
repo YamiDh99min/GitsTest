@@ -1,3 +1,4 @@
+# Asks for strings. Then he prints a statement. Those something similar in the second half of code 
 #!/bin/bash
 
 string_a="UNIX"

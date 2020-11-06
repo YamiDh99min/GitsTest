@@ -1,3 +1,8 @@
+#Same bad code as earlier. Set up variables(after of course getting the directory part right). 
+# Same if statement, but this time there is "then" keyword and an else structure. 
+# If-else statement used to determine if there is less or greater than between two variables
+# adds a "fi" at the end(I don't even know if that's supposed to be there because I'm not super famiilar with
+# shell).
 #!/bin/bash
 
 num_a=400

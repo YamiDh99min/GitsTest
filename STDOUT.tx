@@ -1,3 +1,6 @@
+# for statment that goes through a set of numbers. Prints out each while it goes through. 
+# Don't see something like i++(I know this is not Java, but still) so this might be an infinte loop.
+# done keyword at the end might not get hit at all because of said problems. 
 #!/bin/bash
 
 for i in 1 2 3; do

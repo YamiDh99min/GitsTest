@@ -1,3 +1,5 @@
+#Correct directory. Sets counter at 6 and has an until loop(never really seen this before) go down 1 by 1 until
+#it hits what needs to be hit. Then the done keyword I assume ends the program. 
 #!/bin/bash
 
 counter=6
