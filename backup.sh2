@@ -1,3 +1,5 @@
+# Asks for input like the previous program. This time there are brackets and a function. There are also 
+# plenty of comments. He has good syntax as he is not having the first bracket on the next line. 
 #!/bin/bash
 
 # This bash script is used to backup a user's home directory to /tmp/.
